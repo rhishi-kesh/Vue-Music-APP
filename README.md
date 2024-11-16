@@ -1,4 +1,4 @@
-# music
+# music app
 
 ## Project setup
 ```
